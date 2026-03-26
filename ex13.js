@@ -1,0 +1,1 @@
+console.log((num1 = 50) % 2 == 0 ? "Par":"Ímpar")
